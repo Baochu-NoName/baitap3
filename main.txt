@@ -1,3 +1,6 @@
 function new_main_branch(){
-	//to do in main
+	//todo in main
+}
+function new_function1(){
+	//todo in function 1
 }
