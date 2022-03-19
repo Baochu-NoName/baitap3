@@ -1,6 +1,4 @@
 function new_main_branch(){
 	//todo in main
 }
-function new_function1(){
-	//todo in function 1
-}
+//Xoa new_function1()
