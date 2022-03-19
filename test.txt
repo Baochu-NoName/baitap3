@@ -1,0 +1,7 @@
+function ham_main(){
+	//todo in main
+}
+//Thêm function ham_dev1()
+function ham_dev1(){
+	//todo in dev1
+}
